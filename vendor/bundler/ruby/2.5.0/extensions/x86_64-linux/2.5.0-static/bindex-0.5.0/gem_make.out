@@ -1,0 +1,21 @@
+current directory: /home/vagrant/app/rails/sample/vendor/bundler/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/usr/local/src/rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180318-18924-g1c58k.rb extconf.rb
+creating Makefile
+
+current directory: /home/vagrant/app/rails/sample/vendor/bundler/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+make: Warning: File `Makefile' has modification time 1.4 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /home/vagrant/app/rails/sample/vendor/bundler/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+make: Warning: File `Makefile' has modification time 1.4 s in the future
+compiling cruby.c
+linking shared-object bindex/cruby.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /home/vagrant/app/rails/sample/vendor/bundler/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+make: Warning: File `Makefile' has modification time 1.2 s in the future
+/bin/install -c -m 0755 cruby.so ./.gem.20180318-18924-14fij3n/bindex
+make: warning:  Clock skew detected.  Your build may be incomplete.
