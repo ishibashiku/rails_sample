@@ -1,0 +1,21 @@
+current directory: /home/vagrant/app/rails/sample/vendor/bundler/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/usr/local/src/rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180325-31899-115fver.rb extconf.rb
+creating Makefile
+
+current directory: /home/vagrant/app/rails/sample/vendor/bundler/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+make: Warning: File `Makefile' has modification time 41 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /home/vagrant/app/rails/sample/vendor/bundler/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+make: Warning: File `Makefile' has modification time 41 s in the future
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /home/vagrant/app/rails/sample/vendor/bundler/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+make: Warning: File `Makefile' has modification time 41 s in the future
+/bin/install -c -m 0755 debug_inspector.so ./.gem.20180325-31899-1jjxmje
+make: warning:  Clock skew detected.  Your build may be incomplete.

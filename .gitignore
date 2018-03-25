@@ -33,7 +33,3 @@ doc/
 .DS_Store
 .idea
 .secret
-
-# Ignore security file.
-/config/database.yml
-/config/secrets.yml
